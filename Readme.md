@@ -2,7 +2,7 @@
 
 _Built a lightweight and fully responsive portfolio with HTML, CSS, and JavaScript._
 
-[Click here to view](https://chandru3493.github.io/Portfolio/){:target="\_blank" rel="noopener"}
+[Click here to view](https://chandru3493.github.io/Portfolio/)
 
 ### **_Features :_**
 
